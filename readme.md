@@ -11,3 +11,6 @@ En français pour mieux appréhender les abstractions, sans la surcharge cogniti
 - [File (Queue)](structures-linéaires/file.ts)
 - [File à double entrée (Deque)](structures-linéaires/file-double-entrée.ts)
 
+### Arbres
+
+- [Tas (Heap), min et max](arbres/tas.ts)
